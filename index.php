@@ -6,5 +6,6 @@
 	$eva = 'stupideva';
 	$edna = 'pooredna';
 
+	$aa = 'aa';
 
 ?>
