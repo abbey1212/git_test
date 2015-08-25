@@ -7,5 +7,7 @@
 	$edna = 'pooredna';
 
 	$aa = 'aa';
+	$bb = 'bb';
+	$cc = 'cc';
 
 ?>
